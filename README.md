@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on PHP
 - 📫 How to reach me on github
 - 😄 Pronouns: Vansh
-- ⚡ Fun fact: i am lerner
+- ⚡ Fun fact: i am learner
 
 <!---
 vanshkm/vanshkm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
